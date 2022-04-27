@@ -13,6 +13,7 @@
     <h1>Mirai Development - The simple future, being made simple to help everyone</h1>
     <h2>Team</h2>
     <p>A team of trained Developers to facilitate and bring the best resources for your development.</p>
+    <p>Open source projects and code below:</p>
 </div>
 <br>
 
