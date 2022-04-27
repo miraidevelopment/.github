@@ -4,7 +4,7 @@
     </a>
 </div>
 <div align="center">
-    <a href="https://github.com/MiraiDevelopment/.github/tree/pt" alt="Portuguese">
+    <a href="https://github.com/MiraiDevelopment/.github/tree/pt/profile" alt="Portuguese">
         <img alt="Portuguese" src="https://img.shields.io/static/v1?style=for-the-badge&label=Traduzir%20para&message=Portugues&color=2490f8">
     </a>
 </div>
