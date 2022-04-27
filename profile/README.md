@@ -13,6 +13,7 @@
     <h1>Mirai Development - O futuro simples, sendo feito simples para ajudar a todos</h1>
     <h2>Team</h2>
     <p>Uma equipe de Desenvolvedores treinados para facilitar e trazer os melhores recursos para o seu desenvolvimento.</p>
+    <p>Projetos e códigos abertos abaixo:</p>
 </div>
 <br>
 
