@@ -9,7 +9,7 @@
     </a>
 </div>
 <div align="center">
-    <a href="https://github.com/MiraiDevelopment"><img src="https://user-images.githubusercontent.com/61317250/160204986-a45c27ef-9225-4513-ae26-3907cbb22876.png" alt="mirai development icon" /></a>
+    <a href="https://github.com/MiraiDevelopment"><img src="https://user-images.githubusercontent.com/61317250/165420224-69c368fe-3990-4943-a75d-78c7d18aa320.png" alt="mirai development icon" /></a>
     <h1>Mirai Development - O futuro simples, sendo feito simples para ajudar a todos</h1>
     <h2>Team</h2>
     <p>Uma equipe de Desenvolvedores treinados para facilitar e trazer os melhores recursos para o seu desenvolvimento.</p>
